@@ -1,3 +1,2 @@
 $PS
-import-moduel servermanager
-Add-WindowsFeatures Web-Server -IncludeAllSubfeatures
+Install-WindowsFeatures -Name Web-Server -IncludeManagementTools
