@@ -1,3 +1,3 @@
 $PS
 import-moduel servermanager
-add-windowsfeatures web-server -includeallsubfeatures
+Add-WindowsFeatures Web-Server -IncludeAllSubfeatures
