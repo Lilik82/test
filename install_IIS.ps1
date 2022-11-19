@@ -1,2 +1,2 @@
 $PS
-Install-WindowsFeatures -Name Web-Server -IncludeManagementTools
+Install-WindowsFeature -Name Web-Server -IncludeManagementTools
